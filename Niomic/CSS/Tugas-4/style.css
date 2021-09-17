@@ -1,0 +1,12 @@
+div button {
+    color: #B07F05 !important;
+}
+
+.register button {
+    color: red;
+    font-size: 30px;
+}
+
+.register input {
+    font-size: 20px;
+}

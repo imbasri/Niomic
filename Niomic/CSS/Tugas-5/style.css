@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.div_menu{
+    background-color: black;
+    padding-left: 5px;
+}
+.div_menu a {
+    color: #FFF;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+}
+
+.slider-div{
+    text-align: center;
+    padding-top: 10px;
+}
+.slider{
+    align-items: center;
+}
+
+.content p{
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+footer{
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+}
